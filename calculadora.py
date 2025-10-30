@@ -1,1 +1,1 @@
-print="calculadora";
+print="1. suma";
