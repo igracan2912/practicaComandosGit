@@ -1,1 +1,1 @@
-print="1. suma";
+print="3. multiplicacion";
