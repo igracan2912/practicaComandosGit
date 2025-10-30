@@ -1,1 +1,1 @@
-print="2. resta";
+print="3. multiplicacion";
